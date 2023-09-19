@@ -1,16 +1,10 @@
-# flutter_database
+แอพพลิเคชั่นช่วยเหลือผู้พิการทางสายตาโดยการสแกน QR Code เพื่อแจ้งข้อมูลที่จิตอาสาลงทะเบียนไว้ใน QR Code และสามารถกดขอความช่วยเหลือด้าน QR Code
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Login Page
+![Screenshot_1695161601](https://github.com/jitjamras/-Front-End-Flutter-Develop-product-information-applications-for-blind/assets/87308156/31d94d88-c1b0-44a8-b1b3-06412513aed8) 
+SignUp Page
+![Screenshot_1695161856](https://github.com/jitjamras/-Front-End-Flutter-Develop-product-information-applications-for-blind/assets/87308156/395ffa45-dfa5-490b-b909-fb7f89494f20)
+Dashboard Page
+![Screenshot_1695161613](https://github.com/jitjamras/-Front-End-Flutter-Develop-product-information-applications-for-blind/assets/87308156/4546e2f0-8151-4235-ae31-17462f6df3cb)
+Database Page
+![Screenshot_1695161654](https://github.com/jitjamras/-Front-End-Flutter-Develop-product-information-applications-for-blind/assets/87308156/26796b58-f177-425b-9dcb-685130e906b8)
